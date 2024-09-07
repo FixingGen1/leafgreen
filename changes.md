@@ -1,6 +1,8 @@
 ### gameplay changes
 
 ☑️ open the maps up
+☑️ TM to try in pewter
+- quick start (set names, straight into the lab and choose your starter, give oaks parcel)
 
 > [!NOTE]
 > TO DO LIST
