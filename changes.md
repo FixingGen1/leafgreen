@@ -60,7 +60,7 @@ section15: # 169CA8
 ```
 ### gameplay changes
 - [ ] quick start (set names, straight into the lab and choose your starter, give oaks parcel)
-- [ ] open the maps up
+- [x] open the maps up
 - [ ] change Mart items in each Mart, making key items easier to get
 - [ ] Make the rocket hider quicker, make poke tower optional
 - [ ] 
