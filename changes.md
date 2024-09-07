@@ -1,4 +1,15 @@
-### starter change
+### gameplay changes
+☑️ open the maps up
+
+> [!NOTE]
+> TO DO LIST
+
+- quick start (set names, straight into the lab and choose your starter, give oaks parcel)
+- change Mart items in each Mart, making key items easier to get
+- Make the rocket hider quicker, make poke tower optional 
+
+
+### starter change ☑️
 `setvar temp1, 2, 3, 4 then pokemon number/id`
 ```
 section0: # 169B87
@@ -18,7 +29,7 @@ They contain POKéMON!
   release
   end
 ```
-#### starter level
+#### starter level ☑️
 `givePokemon`
 ```
 section14: # 169C50
@@ -58,9 +69,3 @@ section15: # 169CA8
   goto <169CB8>
 
 ```
-### gameplay changes
-- [ ] quick start (set names, straight into the lab and choose your starter, give oaks parcel)
-- [x] open the maps up
-- [ ] change Mart items in each Mart, making key items easier to get
-- [ ] Make the rocket hider quicker, make poke tower optional
-- [ ] 
