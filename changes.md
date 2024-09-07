@@ -40,6 +40,10 @@ section14: # 169C50
 This POKéMON is really quite
 energetic!
 }
+
+https://github.com/user-attachments/assets/fd186e51-6600-438d-9cae-3cf2a925c868
+
+
   call <1A6651>
   setflag 0x0828
   setflag 0x0291
@@ -69,3 +73,5 @@ section15: # 169CA8
   goto <169CB8>
 
 ```
+
+
