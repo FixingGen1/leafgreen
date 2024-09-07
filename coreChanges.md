@@ -1,15 +1,35 @@
-### gameplay changes
+### `core gameplay changes`
+`version 19`
 
-☑️ open the maps up
-☑️ TM to try in pewter
-- quick start (set names, straight into the lab and choose your starter, give oaks parcel)
+- ☑️ open the maps up
+- ☑️ TM to try in pewter
+- ☑️ quick start (set names, straight into the lab and choose your starter, give OAKS PARCEL)
+- ☑️ ROCK TUNNEL is light automatically (no HM05 needed)
+- ☑️ ROCKET HIDEOUT is quicker to complete
+- ☑️ POKEMON TOWER quicker to complete
+- ☑️ Gyms opened up, no puzzles etc
+☑️ core gameplay changes complete, v19
 
+#### VICTORY ROAD V18
+- ☑️ Boulders right next to the switches
+
+#### E4 V19
+- ☑️ powerful TMs
+- ☑️ boosting held items
+
+#### `SAFARI ZONE`
+
+### TO DO
 > [!NOTE]
 > TO DO LIST
 
-- quick start (set names, straight into the lab and choose your starter, give oaks parcel)
 - change Mart items in each Mart, making key items easier to get
-- Make the rocket hider quicker, make poke tower optional 
+- GYM Leader changes:
+-   
+- Try to edit the wild pokemon data in POKEMON TOWER
+- Add master balls in the SAFARI ZONE
+- Change level of fossils
+- Try and play through VICTORY ROAD by just walking past it
 
 
 ### starter change ☑️
