@@ -1,5 +1,5 @@
 ### gameplay changes
-https://github.com/user-attachments/assets/fd186e51-6600-438d-9cae-3cf2a925c868
+
 ☑️ open the maps up
 
 > [!NOTE]
