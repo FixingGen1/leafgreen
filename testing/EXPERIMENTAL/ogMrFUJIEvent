@@ -1,0 +1,34 @@
+section0: # 163536
+  lock
+  faceplayer
+  setvar var4 14
+  setvar var5 2
+  special UpdatePickStateFromSpecialVar5
+  setflag 0x0034
+  clearflag 0x0035
+  setflag 0x023C
+  msgbox.default <17A505>
+{
+MR. FUJI: Heh?
+You came to save me?
+
+Thank you. But, I came here of my
+own free will.
+
+I came to calm the spirit of
+CUBONE's mother.
+
+I think MAROWAK's spirit has
+finally left us.
+
+I must thank you for your kind
+concern.
+
+Follow me to my home, POKéMON
+HOUSE, at the foot of this tower.
+}
+  closeonkeypress
+  warp.xy 8 2 4 7
+  waitstate
+  release
+  end
