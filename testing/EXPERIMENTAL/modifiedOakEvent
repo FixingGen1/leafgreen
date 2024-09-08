@@ -1,4 +1,4 @@
-section1: # 1655E1
+section1: # 71BEC0
   setvar var4 0
   setvar var5 2
   special UpdatePickStateFromSpecialVar5
@@ -7,7 +7,7 @@ section1: # 1655E1
   playsong mus_oak playOnce
   preparemsg <17D708>
 {
-OAK: Hey! Wait! Don't go out!
+OAK: Wait!
 }
   waitmsg
   pause 85
@@ -28,9 +28,7 @@ emote_exclamation_mark
   pause 30
   msgbox.default <17D726>
 {
-OAK: It's unsafe!
-
-Here, come with me!
+OAK: Here, lets get a POKéMON!
 }
   closeonkeypress
   pause 30
@@ -50,125 +48,66 @@ Here, come with me!
   releaseall
   end
 
-section2: # 165694
+section2: # 71BF62
   move.npc 3 <auto>
 {
-walk_up
-walk_up
+walk_fastest_down
+walk_fastest_down
+walk_fastest_down
+walk_fastest_down
+walk_fastest_down
+walk_fastest_down
 walk_right
-walk_up
-walk_up
-walk_right
-walk_up
-walk_up
+walk_fast_down
 }
   return
 
-section3: # 16569F
+section3: # 71BF6D
   move.npc 3 <auto>
 {
-walk_right
-walk_up
-walk_up
-walk_right
-walk_up
-walk_up
-walk_right
-walk_up
-walk_up
+face_down
 }
   return
 
-section4: # 1656AA
+section4: # 71BF78
   applymovement 3 <auto>
 {
-walk_down
-walk_left
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_right
-walk_right
-walk_right
+walk_fastest_down
+walk_fastest_down
+walk_fastest_down
+walk_fastest_down
+walk_fastest_down
+walk_fastest_down
 walk_right
 walk_right
 walk_in_place_fastest_up
 }
   move.player <auto>
 {
-walk_down
-walk_down
-walk_left
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_right
-walk_right
-walk_right
-walk_right
+face_right
 }
   return
 
-section5: # 1656BC
+section5: # 71BF8A
   applymovement 3 <auto>
 {
-walk_down
-walk_left
-walk_left
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
+walk_fastest_down
+walk_fastest_down
+walk_fastest_down
+walk_fastest_down
+walk_fastest_down
+walk_fastest_down
 walk_right
 walk_right
 walk_right
 walk_right
 walk_right
-walk_in_place_fastest_up
+walk_right
+walk_in_place_up
 }
   move.player <auto>
 {
-walk_down
-walk_down
-walk_left
-walk_left
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_down
-walk_right
-walk_right
-walk_right
-walk_right
+emote_exclamation_mark
 }
+  pause 15
   return
