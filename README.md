@@ -1,17 +1,20 @@
 ### leafgreen
+`Play LG/FR closer to the Gen1 experience` `Move types mimic Gen2` `No Badge Boost Glitch` `QOL Changes`
 
-
+#### Versions / Titles / Releases 
+`"Play as" Series (Play as the gym leaders)` `Custom Solo Runs` `Catch Em All` `Versions with / without Gen1 - Gen3 Pokemon`
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
 <!-- DOWNLOAD -->
 ### download
-> [!INFO]
+
+> [!NOTE]
 > [HexManiacAdvance releases - Discord](https://discord.com/channels/538022037718040588/538730755677880320)
 
 <!-- ABOUT -->
-## TOP TIPS
+## GITHUB TOP TIPS
 > [!TIP]
 > Change ".com" to ".dev" to open in Visual Studio Editor. credit to "Ike Ellis" - https://www.youtube.com/watch?v=zRkHk2WZwjc
 
@@ -20,7 +23,6 @@
 ![image](https://github.com/user-attachments/assets/063e5aeb-81d0-4176-8f49-6208771d87c5)
 > Just open Command Palette (`Ctrl-Shift-P`) -> `Markdown: Create Table of Contents`. Credit [Niko Fohr, Stack OverFlow](https://stackoverflow.com/users/3015186/niko-fohr)
 
-`PowerShell` `Windows VM Sysadmin` `AWS Cloud Engineering` `CRTP` `Windows Hardening`
 
 <!-- PROJECT SHIELDS -->
 <!--
