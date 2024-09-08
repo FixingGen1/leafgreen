@@ -1,0 +1,68 @@
+section0: # 1701C0
+  lockall
+  setvar var8 0
+  goto <1701FC>
+
+  section1: # 1701FC
+  textcolor 0
+  msgbox.default <19F9A8>
+{
+Excuse me!
+Wait up, please!
+}
+  closeonkeypress
+  move.player <1A75C5>
+{
+walk_in_place_fastest_up
+}
+  pause 20
+  if.compare.call var8 == 1 <section2>
+  if.compare.call var8 == 2 <section3>
+  if.compare.call var8 == 3 <section4>
+  if.compare.call var8 == 4 <section5>
+  msgbox.default <19F93B>
+{
+No pedestrians are allowed on
+CYCLING ROAD!
+}
+  closeonkeypress
+  move.player <auto>
+{
+walk_right
+}
+  releaseall
+  end
+
+section2: # 170255
+  move.player <auto>
+{
+walk_up
+}
+  return
+
+section3: # 170260
+  move.player <auto>
+{
+walk_up
+walk_up
+}
+  return
+
+section4: # 17026B
+  move.player <auto>
+{
+walk_up
+walk_up
+walk_up
+}
+  return
+
+section5: # 170276
+  move.player <auto>
+{
+walk_up
+walk_up
+walk_up
+walk_up
+}
+  return
