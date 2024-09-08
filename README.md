@@ -1,5 +1,5 @@
 ### `core gameplay changes`
-`version 19` [Snag list](https://github.com/FixingGen1/leafgreen/milestone/3)
+[Snag list](https://github.com/FixingGen1/leafgreen/milestone/3)
 
 - ☑️ open the maps up
 - ☑️ TM to try in pewter
@@ -8,12 +8,14 @@
 - ☑️ ROCKET HIDEOUT is quicker to complete
 - ☑️ POKEMON TOWER quicker to complete
 - ☑️ Gyms opened up, no puzzles etc
+- ☑️ Most POKEMON do not have abilities, like Generation 1
 ☑️ core gameplay changes complete, v19
 
-#### VICTORY ROAD V18
+#### VICTORY ROAD
 - ☑️ Boulders right next to the switches
+- ☑️ VICTORY ROAD is optional
 
-#### E4 V19
+#### E4
 - ☑️ powerful TMs
 - ☑️ boosting held items
 
