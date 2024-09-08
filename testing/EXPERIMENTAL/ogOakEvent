@@ -1,0 +1,185 @@
+section1: # 1655E1
+  setvar var4 0
+  setvar var5 2
+  special UpdatePickStateFromSpecialVar5
+  textcolor 0
+  pause 30
+  playsong mus_oak playOnce
+  preparemsg <17D708>
+{
+OAK: Hey! Wait! Don't go out!
+}
+  waitmsg
+  pause 85
+  closeonkeypress
+  move.player <1A75C9>
+{
+walk_in_place_fastest_down
+}
+  sound se_pin
+  move.player <1A75B7>
+{
+emote_exclamation_mark
+}
+  pause 30
+  showsprite 3
+  if.compare.call temp1 == 0 <section2>
+  if.compare.call temp1 == 1 <section3>
+  pause 30
+  msgbox.default <17D726>
+{
+OAK: It's unsafe!
+
+Here, come with me!
+}
+  closeonkeypress
+  pause 30
+  if.compare.call temp1 == 0 <section4>
+  if.compare.call temp1 == 1 <section5>
+  setdooropened 16 13
+  doorchange
+  applymovement 3 <auto>
+{
+walk_up
+set_invisible
+}
+  move.player <auto>
+{
+walk_right
+walk_up
+set_invisible
+}
+  setdoorclosed 16 13
+  doorchange
+  setvar 0x4055 1
+  clearflag 0x002B
+  setvar 0x4050 1
+  setflag 0x002C
+  setflag 0x4001
+  warp.xy 4 3 6 12
+  waitstate
+  releaseall
+  end
+
+section2: # 165694
+  move.npc 3 <auto>
+{
+walk_up
+walk_up
+walk_right
+walk_up
+walk_up
+walk_right
+walk_up
+walk_up
+}
+  return
+
+section3: # 16569F
+  move.npc 3 <auto>
+{
+walk_right
+walk_up
+walk_up
+walk_right
+walk_up
+walk_up
+walk_right
+walk_up
+walk_up
+}
+  return
+
+section4: # 1656AA
+  applymovement 3 <auto>
+{
+walk_down
+walk_left
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_right
+walk_right
+walk_right
+walk_right
+walk_right
+walk_in_place_fastest_up
+}
+  move.player <auto>
+{
+walk_down
+walk_down
+walk_left
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_right
+walk_right
+walk_right
+walk_right
+}
+  return
+
+section5: # 1656BC
+  applymovement 3 <auto>
+{
+walk_down
+walk_left
+walk_left
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_right
+walk_right
+walk_right
+walk_right
+walk_right
+walk_in_place_fastest_up
+}
+  move.player <auto>
+{
+walk_down
+walk_down
+walk_left
+walk_left
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_down
+walk_right
+walk_right
+walk_right
+walk_right
+}
+  return
