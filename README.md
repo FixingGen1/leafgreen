@@ -1,5 +1,5 @@
 ### `core gameplay changes`
-`version 19`
+`version 19` [Snag list](https://github.com/FixingGen1/leafgreen/milestone/3)
 
 - ☑️ open the maps up
 - ☑️ TM to try in pewter
