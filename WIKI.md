@@ -29,6 +29,10 @@
 
 > I will be using experimental versions to see just how far you can "push" HMA safely...
 
+### Patches
+
+[Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/)
+
 <!-- BEST PRACTICES AND GENERALLY ACCEPTED GOOD PRACTICE -->
 ## BEST PRACTICES AND GENERALLY ACCEPTED GOOD PRACTICE
 ### `HexManiacAdvance` | Summary of best practices
