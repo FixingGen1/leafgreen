@@ -7,6 +7,8 @@ Core version: Try and playthrough with Elite Four Pokemon only
 > [!NOTE]
 > 
 > ### Gym Leader Changes
-Brock (FLYING)
-- PIDGEY, PIDGEOTTO
+> 
+> Brock (FLYING)
+>
+> - PIDGEY, PIDGEOTTO
 
