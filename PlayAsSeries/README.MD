@@ -8,7 +8,7 @@ Core version: Try and playthrough with Elite Four Pokemon only
 > 
 > ### Gym Leader Changes
 > 
-> Brock (FLYING)
+> Brock (FLYING), Misty (BUG), Surge (ELECTRIC), Erika (GRASS), Koga (POISON), Sabrina (PSYCHIC), Blaine (FIRE), Giovanni / Blue (?)
 >
-> - PIDGEY, PIDGEOTTO
+> BROCK: PIDGEY, PIDGEOTTO
 
