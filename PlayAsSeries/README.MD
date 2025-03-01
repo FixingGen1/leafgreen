@@ -11,7 +11,8 @@ Core version: Try and playthrough with Elite Four Pokemon only
 > Brock (FLYING), Misty (BUG), Surge (ELECTRIC), Erika (GRASS), Koga (POISON), Sabrina (PSYCHIC), Blaine (FIRE), Giovanni / Blue (?)
 >
 > BROCK: PIDGEY, PIDGEOTTO
-> MISTY:
+> _______
+> MISTY: BEEDRILL, SCYTHER
 > _______
 > SURGE:
 > _______
