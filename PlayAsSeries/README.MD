@@ -12,9 +12,15 @@ Core version: Try and playthrough with Elite Four Pokemon only
 >
 > BROCK: PIDGEY, PIDGEOTTO
 > MISTY:
+> _______
 > SURGE:
+> _______
 > ERIKA:
+> _______
 > KOGA:
+> _______
 > SABRINA:
+> _______
 > BLAINE:
+> _______
 > GIOVANNI/BLUE:
